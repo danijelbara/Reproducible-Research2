@@ -1,5 +1,5 @@
 Link on <a href="http://rpubs.com/dbara/Reproducible-Research2" target="_blank">RPubs</a>  
-My [Coursera-Reproducible-Research](https://github.com/danijelbara/Reproducible-Research2) Repo  
+My [Reproducible-Research2](https://github.com/danijelbara/Reproducible-Research2) Repo  
 
 ### Introduction
 
