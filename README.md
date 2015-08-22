@@ -1,4 +1,4 @@
-Link on <a href="http://rpubs.com/dbara/Reproducible-Research2" target="_blank">RPubs</a>  
+Link on <a href="http://rpubs.com/dbara/102692" target="_blank">RPubs</a>  
 My [Reproducible-Research2](https://github.com/danijelbara/Reproducible-Research2) Repo  
 
 ### Introduction
